@@ -3,6 +3,6 @@ Online International Job Finder
 
 Modules
 
-Searching for Jobs
-Resume Creator
-Registration of Employer and Applicants
+Searching for Jobs <br>
+Resume Creator <br>
+Registration of Employer and Applicants <br>
